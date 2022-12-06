@@ -1,4 +1,4 @@
-# LIVE VERSION FOR DESKTOP: https://interactive-card-for-desktop.netlify.app/
+# LIVE VERSION FOR DESKTOP: interactive-card-desktop.netlify.app
 
 
 
