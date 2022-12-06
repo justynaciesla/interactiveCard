@@ -1,4 +1,4 @@
-# LIVE VERSION FOR DESKTOP: interactive-card-desktop.netlify.app
+# LIVE VERSION FOR DESKTOP:  [https://interactive-card-desktop.netlify.app/](https://interactive-card-desktop.netlify.app/)
 
 
 
@@ -9,8 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run: [https://interactive-card-desktop.netlify.app/](https://interactive-card-desktop.netlify.app/)
-
+In the project directory, you can run: 
 ### `npm start`
 
 Runs the app in the development mode.\
